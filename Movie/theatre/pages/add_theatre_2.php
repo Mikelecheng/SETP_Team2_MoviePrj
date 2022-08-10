@@ -151,10 +151,10 @@ include('header.php');
                        	     <label class="control-label">Select Show</label>
                        	     <select name="s_name" id="s_name" class="form-control">
                        	       <option value="0">Select Show</option>
+                       	       <option>Morning</option>
                        	       <option>Noon</option>
-                       	       <option>Matinee</option>
-                       	       <option>First</option>
-                       	       <option>Second</option>
+                       	       <option>Evening</option>
+                       	       <option>Night</option>
                        	       <option>Others</option>
                        	     </select>
                        	   </div>

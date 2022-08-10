@@ -52,9 +52,9 @@ include('header.php');
                 <?php $frm->validate("state",array("required","label"=>"State")); // Validating form using form builder written in form.php ?>
               </div>
               <div class="form-group">
-                <label class="control-label">Pin Code</label>
+                <label class="control-label">Postal Code</label>
                  <input type="text" name="pin" id="postal_code"s placeholder="Zip code" class="form-control">
-                 <?php $frm->validate("pin",array("required","label"=>"Pin Code","regexp"=>"pin")); // Validating form using form builder written in form.php ?>
+                 <?php $frm->validate("pin",array("required","label"=>"Postal Code","regexp"=>"pin")); // Validating form using form builder written in form.php ?>
               </div>
               <?php
                 start:
