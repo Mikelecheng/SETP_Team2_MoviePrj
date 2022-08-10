@@ -1,0 +1,10 @@
+**admin**
+
+Username: admin
+Password: password
+
+
+**theatre**
+
+Username: theatre
+Password: password
