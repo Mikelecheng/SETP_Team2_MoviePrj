@@ -15,12 +15,12 @@ Deployment steps,
     a).	Open browser & enter localhost/[project folder]
     
 
-Login details for admin after run db script,
-Admin, 
+Admin login details after successful completed db script for data initialization ,
+Admin/, 
 Username: admin
 Password: password
 
 
-Theatre Admin, 
+Theatre Admin/, 
 Username: theatre
 Password: password
