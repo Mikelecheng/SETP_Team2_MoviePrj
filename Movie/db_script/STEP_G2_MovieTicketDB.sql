@@ -55,8 +55,7 @@ CREATE TABLE
 -- Dumping data for table `app_booking`
 
 
--- --------------------------------------------------------
-*/
+-- -------------------------------------------------------
 --
 
 -- Table structure for table `app_cinemas`
