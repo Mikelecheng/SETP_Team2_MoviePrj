@@ -47,7 +47,7 @@ include('header.php');
                     <td><?php echo $theatre['state'];?></td>
                 </tr>
                 <tr>
-                    <td>Pin</td>
+                    <td>Postal Code</td>
                     <td><?php echo $theatre['pin'];?></td>
                 </tr>
             </table>
