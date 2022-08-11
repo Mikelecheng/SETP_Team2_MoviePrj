@@ -53,7 +53,7 @@ include('header.php');
               </div>
               <div class="form-group">
                 <label class="control-label">Postal Code</label>
-                 <input type="text" name="pin" id="postal_code"s placeholder="Zip code" class="form-control">
+                 <input type="text" name="pin" id="postal_code"s placeholder="Postal code" class="form-control">
                  <?php $frm->validate("pin",array("required","label"=>"Postal Code","regexp"=>"pin")); // Validating form using form builder written in form.php ?>
               </div>
               <?php

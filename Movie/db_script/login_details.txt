@@ -1,0 +1,11 @@
+
+**Admin Login Details**
+
+Username: admin
+Password: password
+
+
+**Theatre Login Details**
+
+Username: theatre
+Password: password
